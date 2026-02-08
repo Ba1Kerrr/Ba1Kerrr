@@ -19,4 +19,4 @@
 ![SqlAlchemi](https://img.shields.io/badge/-SqlAlchemy-important?style=for-the-badge&logo=python)
 ![Asyncio](https://img.shields.io/badge/-asyncio-green?style=for-the-badge&logo=python)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ba1Kerrr&show_icons=true&hide=issues&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
