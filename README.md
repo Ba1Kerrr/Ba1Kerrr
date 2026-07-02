@@ -30,8 +30,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Ba1Kerrr&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&locale=ru)](https://github.com/Ba1Kerrr)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ba1Kerrr&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&langs_count=6&locale=ru)](https://github.com/Ba1Kerrr)
-
 </div>
 
 ---
@@ -52,6 +50,7 @@
 
 [![Написать в Telegram](https://img.shields.io/badge/Написать_в_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ba1kerrr_Dev)
 
-![Profile views](https://komarev.com/ghpvc/?username=Ba1Kerrr&style=flat-square&color=58A6FF&label=просмотры+профиля)
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ba1Kerrr&style=flat-square&color=58A6FF&label=Просмотры+профиля">
+</p>
 </div>
