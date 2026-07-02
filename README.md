@@ -6,10 +6,6 @@
 
 </div>
 
----
-
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=Ba1Kerrr&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&count_private=true" />
-
 ### О себе
 
 -  Строю **[SoulMates](https://soulmates.com.ru)** - приложение для знакомств с ML-матчингом
@@ -17,8 +13,6 @@
 -  **Открыт для фриланса** - бэкенд, боты, API
 
 <br clear="right"/>
-
----
 
 ### Стек
 
