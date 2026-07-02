@@ -50,7 +50,4 @@
 
 [![Написать в Telegram](https://img.shields.io/badge/Написать_в_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ba1kerrr_Dev)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ba1Kerrr&style=flat-square&color=58A6FF&label=Просмотры+профиля">
-</p>
 </div>
