@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Привет%2C+я+Ba1kerr;Backend+разработчик;Python+%2F+PHP+%2F+FastAPI;Открыт+для+фриланса)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Привет%2C+я+Ba1kerr;Backend+разработчик;YII2+%2F+FastAPI;Открыт+для+фриланса)](https://git.io/typing-svg)
 
 <br/>
 
@@ -9,7 +9,7 @@
 ### О себе
 
 -  Строю **[SoulMates](https://soulmates.com.ru)** - приложение для знакомств с ML-матчингом
-- ~1 год коммерческого опыта (Python + PHP)
+- ~2.5 года коммерческого опыта (Python + PHP)
 -  **Открыт для фриланса** - бэкенд, боты, API
 
 <br clear="right"/>
